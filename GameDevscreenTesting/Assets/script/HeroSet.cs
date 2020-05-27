@@ -11,15 +11,4 @@ public class HeroSet : MonoBehaviour
     public int AvatarShield;
     public int AvatarHeart;
     public int AvatarType;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
